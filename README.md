@@ -2,7 +2,9 @@
 
 ####  游戏预览
 
-![QQ截图20190227152610](C:\Users\Administrator\Desktop\前端面试作品\canvas\games\images\QQ截图20190227152610.png)
+![QQ截图20190227152610](https://github.com/yangmiemie1/canvas-games/blob/master/images/QQ20190227152610.png
+
+)
 
 #### 技术点
 
