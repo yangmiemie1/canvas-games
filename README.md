@@ -2,9 +2,7 @@
 
 ####  游戏预览
 
-![QQ截图20190227152610](https://github.com/yangmiemie1/canvas-games/blob/master/images/QQ20190227152610.png
-
-)
+![image](https://github.com/yangmiemie1/canvas-games/blob/master/images/QQ20190227152610.png)
 
 #### 技术点
 
@@ -17,7 +15,7 @@
 
 ##### 步骤
 
-1、首先使用canvas创建画布，并设置宽高，最后将其添加到body标签后
+1、使用canvas创建画布，并设置宽高，最后将其添加到body标签后
 
 ```
 var canvas = document.createElement("canvas");
